@@ -1,2 +1,0 @@
-def sdf():
-  print('sdf')
